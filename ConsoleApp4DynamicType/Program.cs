@@ -7,7 +7,7 @@ namespace ConsoleApp4DynamicType
         /// <summary>
         ///  dynamic type
         /// puedes asignar cualquier valor de forma dinamica
-        /// se determina su tipo en tiempo de ejecucion, y no en tiempo de compilacion como los typos estatt
+        /// se determina su tipo en tiempo de ejecucion, y no en tiempo de compilacion como los typos normales
         /// </summary>
         /// <param name="args"></param>
         static void Main(string[] args)
